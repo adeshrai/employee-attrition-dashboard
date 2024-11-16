@@ -24,11 +24,3 @@ The highest attrition rate is observed in employees with less than 1 year at the
 Departments like Sales and Research & Development experience the highest attrition.
 Job roles such as Sales Representatives and Laboratory Technicians show higher attrition rates compared to others.
 Employees with high job satisfaction and environment satisfaction levels are less likely to leave.
-
-
-markdown
-Copy code
-## Visualization Preview
-
-![IBM Employee Attrition Dashboard](path-to-your-image/Screenshot 2024-11-16 230043.png)
-Replace path-to-your-image with the actual relative path of the image file in your repository.
